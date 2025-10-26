@@ -7,12 +7,12 @@ Java OOP application for analyzing COVID-19 statistics with database integration
 Michael,
 Kyle,
 Ryan and
-Darren
+Darren.
 
 ## Features
-- 7-day moving average analysis
-- Case fatality rate calculations
-- Peak detection and regional comparisons
-- Data visualization with charts
+- 7-day moving average analysis.
+- Case fatality rate calculations.
+- Peak detection and regional comparisons.
+- Data visualization with charts.
 
 ## ENJOY!!
