@@ -6,7 +6,8 @@ Java OOP application for analyzing COVID-19 statistics with database integration
 ## Team Members
 Michael,
 Kyle,
-Ryan and
+Ryan,
+Ivan and
 Darren.
 
 ## Features
